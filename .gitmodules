@@ -1,0 +1,3 @@
+[submodule "modules/Ridge"]
+	path = modules/Ridge
+	url = git://github.com/hatena/Ridge
