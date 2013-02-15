@@ -1,1 +1,24 @@
-Tes
+Test::Ridge::Internal
+~~~~~~~~~~~~~~~~~~~~~
+
+Internal test supporting module for Ridge.
+
+* Dependency
+
+Ridge::Test::Internal from Ridge
+
+* Author
+
+Wakaba <wakabatan@hatena.ne.jp>.
+
+* Acknowledgements
+
+The module was originally developed by motemen as part of Ugomemo
+Hatena.
+
+* License
+
+Copyright 2008-2013 Hatena <http://www.hatena.ne.jp/company/>.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
